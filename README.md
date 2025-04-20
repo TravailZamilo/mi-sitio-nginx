@@ -1,2 +1,13 @@
-# mi-sitio-nginx
-Este es un repositorio de prueba para usar una imagen de docker y desplegar con kubernetes
+# Mi Sitio Web en Docker y Kubernetes
+
+Este proyecto tiene como objetivo desplegar una aplicación de Nginx usando Docker y Kubernetes.
+
+## Tecnologías Utilizadas
+- Docker
+- Kubernetes
+- Nginx
+
+## Instalación
+
+### Localmente con Docker
+
